@@ -1,1 +1,1 @@
-# PUCRS2023
+Esse repositório contém atividades, projetos e trabalhos realizados durante meu período como aluna de Ciência da Computação da Pontifícia Universidade Católica do Rio Grande do Sul no ano de 2023 (1° e 2° semestre).
