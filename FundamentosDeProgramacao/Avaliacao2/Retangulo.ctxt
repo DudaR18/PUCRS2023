@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Retangulo
+comment1.params=altura\ base
+comment1.target=Retangulo(double,\ double)
+comment2.params=
+comment2.target=double\ getBase()
+comment3.params=
+comment3.target=double\ getAltura()
+comment4.params=novaBase
+comment4.target=void\ setBase(double)
+comment5.params=novaAltura
+comment5.target=void\ setAltura(double)
+comment6.params=
+comment6.target=double\ Area()
+comment7.params=
+comment7.target=double\ Perimetro()
+comment8.params=
+comment8.target=double\ diagonal()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

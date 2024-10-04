@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ListaConvidados
+comment0.text=\n\ Voc\u00EA\ recebeu\ um\ problema\ inicialmente\ resolvido,\ \n\ por\u00E9m\ voc\u00EA\ precisa\ entender\ o\ problema\ e\ dar\ continuidade\n\ \u00E0\ solu\u00E7\u00E3o...\n\ Operacoes\n\ 1)Inserir\ um\ convidado\ (nome)\ na\ lista\n\ 2)\ Escrever\ a\ lista\ de\ convidados\ numerada\n\ 3)\ Excluir\ um\ convidado\ da\ lista\n\ 4)\ Verificar\ se\ um\ nome\ est\u00E1\ na\ lista\n\ 5)\ Editar\ um\ nome\ da\ lista\n\ 6)\ Redefinir\ a\ quantidade\ de\ convidados\ da\ lista\n\ 7)\ Ordenar\ a\ lista\ (ordem\ alfabetica)\n
+comment1.params=quantidade
+comment1.target=ListaConvidados(int)
+comment2.params=nome
+comment2.target=boolean\ inserir(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
